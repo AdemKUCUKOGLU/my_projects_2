@@ -1,3 +1,5 @@
 https://raw.githubusercontent.com/AdemKUCUKOGLU/my_projects_2/main/aws/projects/cc-001-convert-to-roman-numerals/app.py
+mkdir templates
+cd templates
 https://raw.githubusercontent.com/AdemKUCUKOGLU/my_projects_2/main/aws/projects/cc-001-convert-to-roman-numerals/templates/index.html
 https://raw.githubusercontent.com/AdemKUCUKOGLU/my_projects_2/main/aws/projects/cc-001-convert-to-roman-numerals/template/index.html
